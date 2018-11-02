@@ -6,5 +6,6 @@ INTRODUCING BORED-AF
 -----------------------------
 This web app pulls nearby events in your area such as food, music and movies! 
 The app currently pulls events from an API that are happening on the current day that the user searches.
-Enjoy not being bored!
+This was my first project working with a team of devlopers. The primary knowledge I took away from this
+project was how to work as a team and evenly distribute work as needed.
 # bored-af
